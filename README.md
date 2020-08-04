@@ -2,6 +2,8 @@
 
 This logo is a spin on the Clojure logo by taking inspiration from the *Made with Lisp* logo by [Manfred Spiller](http://normal-null.de/).
 
+![Logo](png/logo.png)
+
 ## License ##
 
 Copyright (c) Louise Klodt. All rights reserved. The use and
